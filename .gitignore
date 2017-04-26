@@ -30,4 +30,6 @@
 *.exe
 *.out
 *.app
+
+# custom executable file: Mach-O 64-bit
 main
